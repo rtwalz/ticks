@@ -74,4 +74,4 @@ function getFirstTickValue(min, interval){
 ticks.getNiceInterval = getNiceInterval;
 ticks.getFirstTickValue = getFirstTickValue;
 
-export default ticks;
+module.exports = ticks
